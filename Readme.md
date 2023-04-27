@@ -52,9 +52,9 @@ You can reach me via email at **[Your Email Address]** or connect with me on **[
 
 ### ⭐️ Bonus Section: My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanuv000&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanuv000&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
