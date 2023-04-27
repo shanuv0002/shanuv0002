@@ -2,6 +2,8 @@
 
 Hi there! I'm **[Your Name]**, a software developer based in **[Your Location]**. I'm passionate about creating high-quality software that solves real-world problems. My main interests are **[List Your Interests Here]**.
 
+[![Cover Photo](https://iso.500px.com/wp-content/uploads/2016/03/stock-photo-142984111.jpg)](https://github.com/[Your Username])
+
 ## 🚀 Skills
 
 - **Programming Languages:** [List Your Programming Languages Here]
